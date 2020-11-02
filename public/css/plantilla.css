@@ -1,0 +1,143 @@
+body{
+    background-color: #fafafa;
+}
+
+footer{
+    width: 100%;
+}
+
+.py-1{
+    padding: 1rem 0;
+}
+
+.py-2{
+    padding: 2rem 0;
+}
+
+.py-3{
+    padding: 3rem 0;
+}
+
+.py-4{
+    padding: 4rem 0;
+}
+
+.px-1{
+    padding: 0 1rem;
+}
+
+.px-2{
+    padding: 0 2rem;
+}
+
+.px-3{
+    padding: 0 3rem;
+}
+
+.px-4{
+    padding: 0 4rem;
+}
+
+
+
+.border-f{
+    border-bottom: grey 1px solid;
+}
+
+
+.container-fluid{
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.redes-sociales{
+   font-size: xx-large;
+}
+
+.redes-sociales:hover{
+
+    transform:scale(1.2);
+    transition: 300ms;
+}
+#barra{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    display: block;
+    transition: top 0.3s;
+    z-index: 100;
+}
+
+
+.margen-navbar{
+    margin-bottom: 80px;
+}
+
+.contenedor-formulario{
+    border: grey 1px solid;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 40px;
+    margin-bottom: 40px;
+
+}
+
+.aviso-de-privacidad{
+    border: grey 1px solid;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 20px ;
+
+}
+
+.notificacion{
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+/*----------- Inicio ------------------------------*/
+
+.sansita{
+    font-family: 'Sansita Swashed', cursive;
+}
+
+
+/*----------------Gestor de artículos----------------*/
+
+.iconos-producto{
+    padding: 0rem;
+ }
+ 
+ .iconos-producto:hover{
+ 
+     transform:scale(1.2);
+     transition: 300ms;
+ }
+
+ .carta-producto{
+    padding: 0rem;
+ }
+ 
+ .carta-producto:hover{
+ 
+     transform:scale(1.05);
+     transition: 300ms;
+ }
+
+ .border-top {
+    border-top: 1px solid #dee2e6 !important;
+  }
+
+  .border-bottom {
+    border-bottom: 1px solid #dee2e6 !important;
+  }
+  
